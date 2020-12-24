@@ -1,0 +1,117 @@
+Запуск от: Wed Dec 16 14:10:18 2020
+
+Найденные файлы: 
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us.exe
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\app.info
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\boot.config
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\globalgamemanagers
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\globalgamemanagers.assets
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\globalgamemanagers.assets.resS
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\2.0\machine.config
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\2.0\settings.map
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\2.0\web.config
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.0\machine.config
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.0\settings.map
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.0\web.config
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.5\machine.config
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.5\settings.map
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.5\web.config
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\browscap.ini
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\config
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\mconfig\config.xml
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\Metadata\global-metadata.dat
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\Resources\mscorlib.dll-resources.dat
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\level0
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\level1
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\level2
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\level3
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\level4
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\level5
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\level6
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\level7
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\Steamworks.NET.txt
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\discord_game_sdk.dll
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\local_save.txt
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_api.dll
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_api.dll1
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_api64.dll
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_api64.dll1
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_settings\dlc.txt
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_settings\settings\account_name.txt
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_settings\settings\language.txt
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_settings\settings\listen_port.txt
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_settings\settings\user_steam_id.txt
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_settings\steam_appid.txt
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Resources\unity default resources
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Resources\unity_builtin_extra
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\resources.assets
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\resources.assets.resS
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets0.assets
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets0.assets.resS
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets0.resource
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets1.assets
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets2.assets
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets2.assets.resS
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets2.resource
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets3.assets
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets4.assets
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets4.resource
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets5.assets
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets5.assets.resS
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets6.assets
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\sharedassets7.assets
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Fraction.cpp
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Fraction.hpp
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\GameAssembly.dll
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\main.cpp
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\UnityCrashHandler32.exe
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\UnityPlayer.dll
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\HOW TO RUN GAME!!.txt
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\STEAMUNLOCKED » Free Steam Games.url
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\_Redist\dxwebsetup.exe
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\_Redist\oalinst.exe
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\_Redist\vcredist_2015-2019_x64.exe
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\_Redist\vcredist_2015-2019_x86.exe
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\_Redist\vcredist_x64.exe
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\_Redist\vcredist_x86.exe
+--------
+
+Найденные папки: 
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\2.0
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\2.0\Browsers
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.0
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.0\Browsers
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.5
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\4.5\Browsers
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\etc\mono\mconfig
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\Metadata
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\il2cpp_data\Resources
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_settings
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Plugins\x86\steam_settings\settings
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\Among.Us.v2020.9.9s\Among Us_Data\Resources
+C:\Users\csdvfdv\Desktop\Among.Us.v2020.9.9s\_Redist
+Количество папок: 20
+Количество файлов: 79
+Размер в МБ: 272
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+Запуск от: Tue Dec 15 19:29:00 2020
+
+Найденные файлы и их размер в КБ: 
+C:\DayZ_Standaloneaaa\Addons\structures_data.pbo     1143519
+C:\DayZ_Standaloneaaa\Addons\structures_industrial.pbo     1076212
+C:\DayZ_Standaloneaaa\ZOS\@MungItPack\Addons\MunghardsItems.pbo     973018
+C:\DayZ_Standaloneaaa\Addons\structures_military.pbo     921886
+C:\DayZ_Standaloneaaa\Addons\structures_residential.pbo     810566
+C:\DayZ_Standaloneaaa\Addons\characters_zombies.pbo     760858
+------------------------------------------------------
+Запуск от: Thu Dec 17 10:21:17 2020
+
+Найденные файлы и их размер в КБ: 
+C:\DayZ_Standaloneaaa\Addons\structures_data.pbo     1143519
+C:\DayZ_Standaloneaaa\Addons\structures_industrial.pbo     1076212
+C:\DayZ_Standaloneaaa\ZOS\@MungItPack\Addons\MunghardsItems.pbo     973018
+C:\DayZ_Standaloneaaa\Addons\structures_military.pbo     921886
+C:\DayZ_Standaloneaaa\Addons\structures_residential.pbo     810566
+C:\DayZ_Standaloneaaa\Addons\characters_zombies.pbo     760858
+------------------------------------------------------
+Запуск от: Thu Dec 17 10:21:26 2020
+
+Найденные файлы и их размер в КБ: 
+C:\DayZ_Standaloneaaa\Addons\structures_data.pbo     1143519
+C:\DayZ_Standaloneaaa\Addons\structures_industrial.pbo     1076212
+------------------------------------------------------
+Запуск от: Thu Dec 17 13:15:40 2020
+
+Найденные файлы и их размер в КБ: 
+C:\DayZ_Standaloneaaa\Addons\structures_data.pbo     1143519
+C:\DayZ_Standaloneaaa\Addons\structures_industrial.pbo     1076212
+C:\DayZ_Standaloneaaa\ZOS\@MungItPack\Addons\MunghardsItems.pbo     973018
+C:\DayZ_Standaloneaaa\Addons\structures_military.pbo     921886
+C:\DayZ_Standaloneaaa\Addons\structures_residential.pbo     810566
+C:\DayZ_Standaloneaaa\Addons\characters_zombies.pbo     760858
+C:\DayZ_Standaloneaaa\Addons\structures_specific.pbo     747374
+C:\DayZ_Standaloneaaa\ZOS\@CPBW\addons\CPBWeapons.pbo     706578
+C:\DayZ_Standaloneaaa\Addons\vehicles_wheeled.pbo     683194
+C:\DayZ_Standaloneaaa\ZOS\@Summer_Chernarus\addons\summer_plants.pbo     669492
+------------------------------------------------------
+Запуск от: Thu Dec 17 13:16:02 2020
+
+Найденные файлы и их размер в КБ: 
+C:\DayZ_Standaloneaaa\Addons\structures_data.pbo     1143519
+C:\DayZ_Standaloneaaa\Addons\structures_industrial.pbo     1076212
+------------------------------------------------------
+Запуск от: Thu Dec 17 13:16:05 2020
+
+Найденные файлы и их размер в КБ: 
+C:\DayZ_Standaloneaaa\Addons\structures_data.pbo     1143519
+C:\DayZ_Standaloneaaa\Addons\structures_industrial.pbo     1076212
+C:\DayZ_Standaloneaaa\ZOS\@MungItPack\Addons\MunghardsItems.pbo     973018
+C:\DayZ_Standaloneaaa\Addons\structures_military.pbo     921886
+C:\DayZ_Standaloneaaa\Addons\structures_residential.pbo     810566
+C:\DayZ_Standaloneaaa\Addons\characters_zombies.pbo     760858
+C:\DayZ_Standaloneaaa\Addons\structures_specific.pbo     747374
+C:\DayZ_Standaloneaaa\ZOS\@CPBW\addons\CPBWeapons.pbo     706578
+C:\DayZ_Standaloneaaa\Addons\vehicles_wheeled.pbo     683194
+C:\DayZ_Standaloneaaa\ZOS\@Summer_Chernarus\addons\summer_plants.pbo     669492
+------------------------------------------------------
+Запуск от: Thu Dec 17 13:16:13 2020
+
+Найденные файлы и их размер в КБ: 
+C:\DayZ_Standaloneaaa\DayZDiag_x64.exe     15210
+C:\DayZ_Standaloneaaa\DayZ_x64.exe     15087
+C:\DayZ_Standaloneaaa\Launcher_SA.exe     8732
+C:\DayZ_Standaloneaaa\Launcher_SA_pass_123.rar     8351
+C:\DayZ_Standaloneaaa\Start_DayZ_Settings.exe     1510
+C:\DayZ_Standaloneaaa\Start_DayZ_offline.exe     1399
+------------------------------------------------------
